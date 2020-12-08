@@ -1,0 +1,29 @@
+commit 8b1610e85b75621356c246da3174c5a33901ffd0
+Author: mario7a <mariomacias.cb128@uemstis.sems.gob.mx>
+Date:   Wed Dec 2 14:48:10 2020 -0700
+
+    Se le agrego movimiento al boton
+
+commit be6d2be049f7015e0320296bdab0e0d769a33442
+Author: mario7a <mariomacias.cb128@uemstis.sems.gob.mx>
+Date:   Wed Dec 2 14:40:28 2020 -0700
+
+    Agregue un boton
+
+commit 67aab48084e5c89d4c6f66c25cd8742bcf8ac278
+Author: mario7a <mariomacias.cb128@uemstis.sems.gob.mx>
+Date:   Tue Dec 1 20:44:08 2020 -0700
+
+    Agregar un cuadro a la pantalla principal
+
+commit 23f8127e0185101606e5621ab02c019bc901c6ba
+Author: mario7a <mariomacias.cb128@uemstis.sems.gob.mx>
+Date:   Mon Nov 30 17:36:36 2020 -0700
+
+    Agregamos imagenes
+
+commit 7a265700a6467cf1f64f1d6a6276bb7b692c2223
+Author: mario7a <mariomacias.cb128@uemstis.sems.gob.mx>
+Date:   Mon Nov 30 17:28:11 2020 -0700
+
+    Inicio de proyecto
