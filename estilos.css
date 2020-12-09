@@ -29,18 +29,18 @@ text-align:center;
 
 h1
 {
-color:blue;
+color:rgb(255, 174, 0);
 font-size: xx-large;
 font-weight: 900;
 
 }
-.btn
+.btn2
 {
 background-color: yellow;
 width:40%;
 text-align: center;
 text-decoration: none;
-transform: translate(70%, 400%);
+transform: translate(70%, 200%);
 
 
 }
