@@ -34,3 +34,13 @@ font-size: xx-large;
 font-weight: 900;
 
 }
+.btn
+{
+background-color: yellow;
+width:40%;
+text-align: center;
+text-decoration: none;
+transform: translate(70%, 400%);
+
+
+}
